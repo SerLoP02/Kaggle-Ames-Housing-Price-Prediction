@@ -1,0 +1,1 @@
+In this repository you can see my contribution to the Kaggle Competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) where I ranked 1220 out of 4931 (top 25%)
